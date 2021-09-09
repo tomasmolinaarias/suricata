@@ -1,36 +1,43 @@
 body {
     font-family: 'Open Sans', sans-serif;
 }
+
 nav {
     background-color:#E83E8C ;
 }
+
 .logo1 {
     width: 132px;
 }
+/*
+.columna1{
+    padding: 10px;
+}
+.columna2{
+    padding: 10px;
+}
+*/
+
 .pagos {
     background-color: #17A2B8;
     background-size: cover;
     vertical-align: middle;
-    width: 100%;
-    
+    width: 100%; 
 }
+
 h2 {
     display: inline;
-
-}
-i{
-    width: 70px;
 }
 
-.logocard {
-    display:inline;
-    vertical-align: middle;
-    
+i {
+    width: 120px;
 }
+
 .logo2 {
     background-color: #E83E8C;
     width: 100%;
 }
+
 .logoft {
     width: 60px;
     vertical-align: middle;
