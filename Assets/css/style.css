@@ -9,19 +9,29 @@ nav {
 }
 .pagos {
     background-color: #17A2B8;
+    background-size: cover;
+    vertical-align: middle;
+    width: 100%;
+    
 }
 h2 {
     display: inline;
-    
+
 }
-i {
-    width:40px;
+i{
+    width: 70px;
+}
+
+.logocard {
+    display:inline;
+    vertical-align: middle;
+    
 }
 .logo2 {
     background-color: #E83E8C;
-    top: ;
-    height: 150px;
+    width: 100%;
 }
 .logoft {
-    width: 70px;
+    width: 60px;
+    vertical-align: middle;
 }
