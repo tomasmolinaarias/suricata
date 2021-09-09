@@ -4,8 +4,11 @@ body {
 
 nav {
     background-color:#E83E8C ;
+    color: white;
 }
-
+h1, h5, p {
+    color:#212529;
+}
 .logo1 {
     width: 132px;
 }
@@ -15,6 +18,7 @@ nav {
     background-size: cover;
     vertical-align: middle;
     width: 100%; 
+    color: white;
 }
 
 h2 {
@@ -34,3 +38,4 @@ i {
     width: 60px;
     vertical-align: middle;
 }
+
